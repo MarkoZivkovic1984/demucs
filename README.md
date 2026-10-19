@@ -319,6 +319,7 @@ In order to reproduce the results from the Track A and Track B submissions, chec
 ## License
 
 Demucs is released under the MIT license as found in the [LICENSE](LICENSE) file.
+The pretrained weights distributed from `dl.fbaipublicfiles.com/demucs/` are covered by the same licence.
 
 [hybrid_paper]: https://arxiv.org/abs/2111.03600
 [waveunet]: https://github.com/f90/Wave-U-Net
